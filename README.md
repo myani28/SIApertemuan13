@@ -4,5 +4,5 @@ CARA MENJALANKAN
 - Aktifkan xampp
 - Pergi ke browser dan jalankan http://localhost/apps/login.php
 - Untuk username dan password nya:
-  Username  : admin
-  Password  : admin
+- Username  : admin
+- Password  : admin
